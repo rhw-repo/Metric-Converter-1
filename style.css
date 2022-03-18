@@ -1,0 +1,40 @@
+html,
+body {
+  margin: auto;
+  padding: 0;
+  background-color: #040929;
+  font-family: 'DM Sans', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.title-input {
+  background-image: linear-gradient(180deg,
+      hsl(226deg 51% 19%) 0%,
+      hsl(224deg 55% 26%) 8%,
+      hsl(224deg 56% 31%) 19%,
+      hsl(224deg 57% 36%) 44%,
+      hsl(224deg 57% 40%) 88%,
+      hsl(224deg 58% 43%) 95%,
+      hsl(223deg 58% 47%) 99%,
+      hsl(223deg 58% 50%) 100%,
+      hsl(223deg 66% 53%) 100%,
+      hsl(223deg 73% 56%) 100%);
+
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#start_num {
+  font-size: 60px;
+}
+
+.convdiv {
+  padding: 50px;
+}
+
+.conv {
+  margin: 20px;
+  font-size: 32px;
+}
+
